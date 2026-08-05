@@ -5,8 +5,7 @@ class Solution:
         max_l=0
         i=0
 
-        while(i<n):
-            
+        while(i<n):  
             if nums[i]==1:
                 l+=1
                 max_l=max(max_l,l)
