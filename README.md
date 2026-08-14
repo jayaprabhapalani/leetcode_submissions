@@ -5,4 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
