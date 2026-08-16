@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0735-asteroid-collision) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
