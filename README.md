@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0085-maximal-rectangle) |
+| [0238-product-of-array-except-self](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
