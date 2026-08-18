@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
