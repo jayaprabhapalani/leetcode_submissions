@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0739-daily-temperatures) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
