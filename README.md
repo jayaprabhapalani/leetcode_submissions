@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0238-product-of-array-except-self](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0647-palindromic-substrings) |
 ## Matrix
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
