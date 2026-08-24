@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
