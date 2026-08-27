@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
