@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
