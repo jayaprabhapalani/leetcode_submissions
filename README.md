@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0647-palindromic-substrings) |
 ## String
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
