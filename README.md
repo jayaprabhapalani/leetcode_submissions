@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,12 +146,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
