@@ -4,13 +4,11 @@ class Solution:
 
         # i can find it by heap
 
-        max_heap=[]
+        min_heap=[]
         for num in nums:
-            heapq.heappush(max_heap,-num)
-
-        for i in range(k-1):
-            heapq.heappop(max_heap)
-
-        return -max_heap[0]
+            heapq.heappush(min_heap,num)
+            if len(min_heap)>k:
+                heapq.heappop(min_heap)
+        return min_heap[0]
 
         
