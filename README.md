@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
