@@ -187,4 +187,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
