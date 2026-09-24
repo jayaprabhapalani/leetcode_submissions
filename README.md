@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0085-maximal-rectangle) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0735-asteroid-collision) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -214,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
