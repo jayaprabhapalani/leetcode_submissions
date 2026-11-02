@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0035-search-insert-position) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jayaprabhapalani/leetcode_submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
